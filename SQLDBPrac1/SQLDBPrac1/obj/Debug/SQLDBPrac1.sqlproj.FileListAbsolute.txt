@@ -1,0 +1,10 @@
+D:\crack1\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.dacpac
+D:\crack1\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.dll
+D:\crack1\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.pdb
+D:\crack1\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.sqlproj.AssemblyReference.cache
+D:\crack1\SQLDBPrac1\SQLDBPrac1\obj\Debug\Model.xml
+D:\crack1\SQLDBPrac1\SQLDBPrac1\obj\Debug\refactor.xml
+D:\crack1\SQLDBPrac1\SQLDBPrac1\obj\Debug\postdeploy.sql
+D:\crack1\SQLDBPrac1\SQLDBPrac1\obj\Debug\predeploy.sql
+D:\crack1\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.dll
+D:\crack1\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.pdb

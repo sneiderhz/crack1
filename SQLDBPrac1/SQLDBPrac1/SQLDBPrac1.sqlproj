@@ -6,7 +6,7 @@
     <Name>SQLDBPrac1</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
-    <ProjectGuid>{15533caf-b8c3-4624-b844-3cde492a4510}</ProjectGuid>
+    <ProjectGuid>{8c762b4f-349d-4389-9ca1-f70dbf1b8741}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql130DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
@@ -65,5 +65,8 @@
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="SQLDBPrac1.refactorlog" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SQLDBPrac1.publish.xml" />
   </ItemGroup>
 </Project>
