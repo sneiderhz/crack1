@@ -1,0 +1,14 @@
+D:\crack1\ORMPrac2\bin\Debug\ORMPrac2.exe.config
+D:\crack1\ORMPrac2\bin\Debug\ORMPrac2.exe
+D:\crack1\ORMPrac2\bin\Debug\ORMPrac2.pdb
+D:\crack1\ORMPrac2\bin\Debug\EntityFramework.dll
+D:\crack1\ORMPrac2\bin\Debug\EntityFramework.SqlServer.dll
+D:\crack1\ORMPrac2\bin\Debug\EntityFramework.xml
+D:\crack1\ORMPrac2\bin\Debug\EntityFramework.SqlServer.xml
+D:\crack1\ORMPrac2\obj\Debug\ORMPrac2.csproj.AssemblyReference.cache
+D:\crack1\ORMPrac2\obj\Debug\ORMPrac2.Properties.Resources.resources
+D:\crack1\ORMPrac2\obj\Debug\ORMPrac2.csproj.GenerateResource.cache
+D:\crack1\ORMPrac2\obj\Debug\ORMPrac2.csproj.CoreCompileInputs.cache
+D:\crack1\ORMPrac2\obj\Debug\ORMPrac2.csproj.CopyComplete
+D:\crack1\ORMPrac2\obj\Debug\ORMPrac2.exe
+D:\crack1\ORMPrac2\obj\Debug\ORMPrac2.pdb
