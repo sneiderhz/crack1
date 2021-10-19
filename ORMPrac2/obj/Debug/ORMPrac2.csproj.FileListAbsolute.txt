@@ -12,3 +12,4 @@ D:\crack1\ORMPrac2\obj\Debug\ORMPrac2.csproj.CoreCompileInputs.cache
 D:\crack1\ORMPrac2\obj\Debug\ORMPrac2.csproj.CopyComplete
 D:\crack1\ORMPrac2\obj\Debug\ORMPrac2.exe
 D:\crack1\ORMPrac2\obj\Debug\ORMPrac2.pdb
+D:\crack1\ORMprac2\obj\Debug\ORMPrac2.Form1.resources
