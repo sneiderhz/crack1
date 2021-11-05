@@ -6,8 +6,8 @@
     <edmx:Diagrams>
       <Diagram DiagramId="e7eefc7025004216891e173de5bbd3e5" Name="Diagram1" >
         <EntityTypeShape EntityType="DB2Entity.AGENTS" Width="1.5" PointX="0.5" PointY="2.375" />
-        <EntityTypeShape EntityType="DB2Entity.CUSTOMER" Width="1.5" PointX="3" PointY="2.25" />
-        <EntityTypeShape EntityType="DB2Entity.ORDERS" Width="1.5" PointX="5" PointY="2.375" />
+        <EntityTypeShape EntityType="DB2Entity.CUSTOMER" Width="2" PointX="3" PointY="2.25" />
+        <EntityTypeShape EntityType="DB2Entity.ORDERS" Width="1.75" PointX="7.375" PointY="2.375" />
         <AssociationConnector Association="DB2Entity.AGENTSCUSTOMER" />
         <AssociationConnector Association="DB2Entity.CUSTOMERORDERS" />
         <AssociationConnector Association="DB2Entity.AGENTSORDERS" />
