@@ -1,0 +1,10 @@
+D:\crack1\BDMercaMax\bin\Debug\BDMercaMax.dacpac
+D:\crack1\BDMercaMax\bin\Debug\BDMercaMax.dll
+D:\crack1\BDMercaMax\bin\Debug\BDMercaMax.pdb
+D:\crack1\BDMercaMax\obj\Debug\BDMercaMax.sqlproj.AssemblyReference.cache
+D:\crack1\BDMercaMax\obj\Debug\Model.xml
+D:\crack1\BDMercaMax\obj\Debug\refactor.xml
+D:\crack1\BDMercaMax\obj\Debug\postdeploy.sql
+D:\crack1\BDMercaMax\obj\Debug\predeploy.sql
+D:\crack1\BDMercaMax\obj\Debug\BDMercaMax.dll
+D:\crack1\BDMercaMax\obj\Debug\BDMercaMax.pdb
