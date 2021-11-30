@@ -1,0 +1,39 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       [dbo].[LugarStock]
+     Índices clúster que se van a quitar
+       restricción sin nombre en [dbo].[Venta]
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Se está quitando la columna [dbo].[Facturacion].[id_venta]; puede que se pierdan datos.
+       Se está quitando la columna [dbo].[LugarStock].[barcode_producto]; puede que se pierdan datos.
+       Se está quitando la columna [dbo].[LugarStock].[id_lugar]; puede que se pierdan datos.
+       Debe agregarse la columna [dbo].[LugarStock].[barcode_prodcuto] de la tabla [dbo].[LugarStock], pero esta columna no
+         tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para
+         evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o
+         habilite la generación de valores predeterminados inteligentes como opción de implementación.
+       Se está quitando la columna [dbo].[Venta].[id_venta]; puede que se pierdan datos.
+
+** Acciones del usuario
+     Cambiar nombre
+       [dbo].[Personal].[fecha_nacimiento_personal] (Columna)
+     Quitar
+       [dbo].[FK_Facturacion_ToTable_2] (Clave externa)
+       restricción sin nombre en [dbo].[Venta] (Clave principal)
+     Modificar
+       [dbo].[Facturacion] (Tabla)
+       [dbo].[Venta] (Tabla)
+     Nueva compilación de tablas
+       [dbo].[LugarStock] (Tabla)
+
+** Acciones de compatibilidad
+
+Se está quitando la columna [dbo].[Facturacion].[id_venta]; puede que se pierdan datos.
+Se está quitando la columna [dbo].[LugarStock].[barcode_producto]; puede que se pierdan datos.
+Se está quitando la columna [dbo].[LugarStock].[id_lugar]; puede que se pierdan datos.
+Debe agregarse la columna [dbo].[LugarStock].[barcode_prodcuto] de la tabla [dbo].[LugarStock], pero esta columna no tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la generación de valores predeterminados inteligentes como opción de implementación.
+Se está quitando la columna [dbo].[Venta].[id_venta]; puede que se pierdan datos.
+Si se ejecuta esta implementación, los cambios realizados en [dbo].[LugarStock] podrían generar errores en tiempo de ejecución en [dbo].[VerProductoBodega].
+Si se ejecuta esta implementación, los cambios realizados en [dbo].[LugarStock] podrían generar errores en tiempo de ejecución en [dbo].[VerProductoGondola].
+

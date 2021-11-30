@@ -1,0 +1,19 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Ninguno
+
+** Acciones del usuario
+     Cambiar nombre
+       [dbo].[LugarStock].[barcode_producto] (Columna)
+     Quitar
+       restricción sin nombre en [dbo].[Venta] (Restricción UNIQUE)
+     Crear
+       [dbo].[VerInventario] (Vista)
+
+** Acciones de compatibilidad
